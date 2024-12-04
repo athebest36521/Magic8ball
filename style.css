@@ -1,0 +1,10 @@
+body{
+    background: rgb(0,15,36);
+background: linear-gradient(90deg, rgba(0,15,36,1) 0%, rgba(9,9,121,1) 51%, rgba(0,212,255,1) 100%);
+}
+h1{
+    color:#ffffff
+}
+#response-text{
+    color:#ffffff
+}
